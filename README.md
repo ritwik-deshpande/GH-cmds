@@ -95,3 +95,9 @@ Useful Operations
        git rebase --edit-redo
        git rebase --abort
        git rebase -i   
+
+
+       git tag
+       git tag -a
+
+       git push origin tagname
